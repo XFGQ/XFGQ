@@ -34,7 +34,7 @@
 ### 🐍 Contributions Snake Game
 
 <p align="center">
-  <img src="https://github.com/XFGQ/XFGQ/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://github.com/XFGQ/XFGQ/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
 
 ---
