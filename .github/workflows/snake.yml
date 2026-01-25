@@ -1,0 +1,37 @@
+name: Generate Snake
+
+on:
+  # Her gün gece yarısı çalıştır
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Manuel olarak çalıştırmaya da izin ver
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # Gerekirse, özel bir token kullanabilirsin (genellikle gerekmez)
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
