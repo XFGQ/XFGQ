@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 <h1 align="center">
   <a href="https://github.com/XFGQ">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&background=00000000&center=true&vCenter=true&width=300&lines=Furkan+Duman" alt="Typing SVG" />
   </a>
+=======
+<h1 align="center"> 
+  <a href="https://github.com/XFGQ">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&background=00000000&center=false&vCenter=true&width=280&lines=Furkan+Duman" alt="Typing SVG" />
+  </a> 👋
+>>>>>>> 624cfc30293e916c1bbe332bdbb4c9cba436e0e7
 </h1>
 
 <p align="center">
@@ -11,9 +18,14 @@
 ---
 
 ### 🚀 Professional Summary
-
+ 
+<<<<<<< HEAD
 - 🔭 I’m currently working on **2D/3D Game Development with Unity & Godot**.
 - 💻 My main focus areas are **Online Game Development**, **Network Programming**, and **C#**.
+=======
+- 🔭 I’m currently working on **2D/3D Game Development with Unity**.
+- 💻 My main focus areas are **Online Game Development**, **How Network Works**, and **C#**.
+>>>>>>> 624cfc30293e916c1bbe332bdbb4c9cba436e0e7
 
 ---
 
@@ -23,8 +35,12 @@
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+<<<<<<< HEAD
   <br>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+=======
+  <br> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+>>>>>>> 624cfc30293e916c1bbe332bdbb4c9cba436e0e7
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
