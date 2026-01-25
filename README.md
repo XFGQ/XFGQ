@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 
+<h1 align="center"> 
   <a href="https://github.com/XFGQ">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&background=00000000&center=false&vCenter=true&width=280&lines=Furkan+Duman" alt="Typing SVG" />
   </a> 👋
