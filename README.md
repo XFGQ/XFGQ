@@ -10,15 +10,11 @@
 
 ---
  
-### 🚀 Professional Summary
- 
+
 - 🔭 I’m currently working on **2D/3D Game Development with Unity**.
 - 💻 My main focus areas are **Online Game Development**, **Network Programming**, and **C#**.
 - 🎮 In 2026 I am planning to release a game on steam.  
 ---
-
-### 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -31,22 +27,15 @@
 
 ---
 
-### 🐍 Contributions Snake Game
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/XFGQ/XFGQ/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
 ---
-
-### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFGQ&layout=compact&theme=radical&hide_border=false&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
 ---
-
-### 🔗 Connect
 
 <p align="center">
   <a href="https://rinnesoft.com" target="_blank">
