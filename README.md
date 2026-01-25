@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/XFGQ/XFGQ/output/github-contribution-grid-snake.svg" alt="snake game" />
