@@ -9,27 +9,31 @@
 </p>
 
 ---
- 
 
 - 🔭 I’m currently working on **2D/3D Game Development with Unity**.
 - 💻 My main focus areas are **Online Game Development**, **Network Programming**, and **C#**.
 - 🎮 In 2026 I am planning to release a game on steam.  
+
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<br>
+  <br>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/XFGQ/XFGQ/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
+
 ---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFGQ&layout=compact&theme=radical&hide_border=false&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
