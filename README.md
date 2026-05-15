@@ -36,7 +36,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFGQ&layout=compact&theme=radical&hide_border=false&bg_color=0D1117" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFGQ&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
 
 ---
