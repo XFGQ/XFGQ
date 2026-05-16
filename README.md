@@ -34,9 +34,8 @@
 </p>
 
 ---
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFGQ&layout=compact&theme=radical&hide_border=true&bg_color=00000000&cache_seconds=86400" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XFGQ&layout=compact&theme=radical" height="150" />
 </div>
 
 ---
